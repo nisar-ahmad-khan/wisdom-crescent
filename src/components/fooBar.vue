@@ -7,6 +7,13 @@
         Feel free to contact me if you find any mistake <br>
         &copy;Nisar Ahmad | {{ date.getFullYear() }}
       </p>
+        <p>Our Other Products</p>
+        <div class="flex justify-center">
+
+            <a href="https://eventlay.com" target="_blank" rel="noopener">
+    Eventlay
+</a>
+        </div>
     </footer>
 </template>
 
