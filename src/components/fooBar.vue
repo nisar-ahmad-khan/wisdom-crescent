@@ -11,7 +11,7 @@
         <div class="flex justify-center">
 
             <a href="https://eventlay.com" target="_blank" rel="noopener">
-    Eventlay
+    Click here!
 </a>
         </div>
     </footer>
